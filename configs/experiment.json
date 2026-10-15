@@ -1,0 +1,10 @@
+{
+  "experiment_name": "digits-mlp-baseline",
+  "random_seed": 42,
+  "test_size": 0.25,
+  "hidden_units": 64,
+  "epochs": 12,
+  "learning_rate": 0.01,
+  "batch_size": 64,
+  "dataset": "scikit-learn load_digits (8x8 handwritten digits; bundled with scikit-learn)"
+}
